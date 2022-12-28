@@ -1,1 +1,1 @@
-# Microsoft-SQL-Project
+In this project, explanatory analyses are conducted on Covid-19 infected, death and vaccination data. The analyses show which countries handled the pandemic better. From the data, it is evident that some countries have already started applying booster vaccines and have more overall vaccinations than the population, whereas a couple of countries still could not achieve reasonable vaccination rates.
